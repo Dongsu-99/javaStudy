@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 1 commit">
-      <change afterPath="$PROJECT_DIR$/src/MakeCharacter/MyChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MakeCharacter/MyCharRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_4892.java" afterDir="false" />
+    <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 4 commit">
       <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_5217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_5337.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_5338.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_5522.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +50,26 @@
       <recent name="SimpleInterestCalculator" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Academy" />
       <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.backjoon_5522">
-    <configuration name="backjoon_4892" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_4892" />
+  <component name="RunManager" selected="애플리케이션.backjoon_10817">
+    <configuration name="RunningExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.RunningExample2" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backjoon_10699" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_10699" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="backjoon_5217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_5217" />
+    <configuration name="backjoon_10817" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_10817" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="backjoon_5337" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_5337" />
+    <configuration name="backjoon_7287" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_7287" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -100,21 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="backjoon_5338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_5338" />
-      <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="backjoon_5522" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_5522" />
+    <configuration name="backjoon_7891" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_7891" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.backjoon_5522" />
-        <item itemvalue="애플리케이션.backjoon_5338" />
-        <item itemvalue="애플리케이션.backjoon_5337" />
-        <item itemvalue="애플리케이션.backjoon_5217" />
-        <item itemvalue="애플리케이션.backjoon_4892" />
+        <item itemvalue="애플리케이션.backjoon_10817" />
+        <item itemvalue="애플리케이션.backjoon_7287" />
+        <item itemvalue="애플리케이션.backjoon_10699" />
+        <item itemvalue="애플리케이션.RunningExample2" />
+        <item itemvalue="애플리케이션.backjoon_7891" />
       </list>
     </recent_temporary>
   </component>
@@ -159,11 +153,33 @@
       <option name="project" value="LOCAL" />
       <updated>1679493335679</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day - 1 commit">
+      <created>1679577964253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679577964253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day - 3 commit">
+      <created>1679669777858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679669777858</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day - 3 commit">
+      <created>1679750132642</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679750132642</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day - 1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day - 1 commit" />
+    <MESSAGE value="Day - 3 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day - 3 commit" />
   </component>
 </project>
