@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 4 commit">
       <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_5217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_9654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_9713.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +57,7 @@
       <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.backjoon_10817">
-    <configuration name="RunningExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Academy.RunningExample2" />
-      <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Academy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.backjoon_9713">
     <configuration name="backjoon_10699" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_10699" />
       <module name="javaStudy" />
@@ -107,8 +97,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="backjoon_7891" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_7891" />
+    <configuration name="backjoon_9654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_9654" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="backjoon_9713" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_9713" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.backjoon_9713" />
+        <item itemvalue="애플리케이션.backjoon_9654" />
         <item itemvalue="애플리케이션.backjoon_10817" />
         <item itemvalue="애플리케이션.backjoon_7287" />
         <item itemvalue="애플리케이션.backjoon_10699" />
-        <item itemvalue="애플리케이션.RunningExample2" />
-        <item itemvalue="애플리케이션.backjoon_7891" />
       </list>
     </recent_temporary>
   </component>
@@ -174,12 +177,42 @@
       <option name="project" value="LOCAL" />
       <updated>1679750132642</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day - 4 commit">
+      <created>1679750502612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679750502612</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day - 1 commit" />
-    <MESSAGE value="Day - 3 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day - 3 commit" />
+    <MESSAGE value="Day - 4 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day - 4 commit" />
   </component>
 </project>
