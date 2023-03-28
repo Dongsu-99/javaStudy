@@ -1,4 +1,4 @@
-package backjoon;
+package baekjoon;
 import java.util.Scanner;
 public class backjoon_4562 {
 //    첫번째 입력받은 수가 두번째 입력받은 수보다 작으면 "NO BRAINS", 아니면 "MMM BRAINS"을 출력하면 되는 간단한 문제입니다.

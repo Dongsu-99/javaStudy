@@ -1,4 +1,4 @@
-package backjoon;
+package baekjoon;
 import java.util.Scanner;
 public class backjoon_4101 {
     public static void main(String[] args) {

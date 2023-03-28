@@ -1,4 +1,4 @@
-package backjoon;
+package baekjoon;
 import java.util.Scanner;
 import java.util.Arrays;
 public class backjoon_2752 {
