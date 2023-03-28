@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 6 commit">
-      <change afterPath="$PROJECT_DIR$/src/Academy/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/Account1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/AccountExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/BankApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/GetterSetterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/PrinterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/PrinterExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/ShopService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/ShopServiceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Academy/SingletonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_11367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_5217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/baekjoon_6749.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/baekjoon_6778.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_10093.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_10093.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_10699.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_10699.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_10817.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_10817.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_11319.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_11319.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_11367.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_1550.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_1550.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_2752.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_2752.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_2753.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_4101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_4101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_4562.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_4562.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_4892.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_4892.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_5337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_5337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_5338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_5338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_5522.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_5522.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_7287.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_7287.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_7891.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_7891.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_9654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_9654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_9713.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/backjoon_9713.java" afterDir="false" />
-    </list>
+    <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 7 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +20,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ef1ffef3-ce10-44b6-8e81-f73c7eac9551" />
+        <option name="url" value="https://github.com/Dongsu-99/javaStudy.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -120,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="backjoon_11367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.backjoon_11367" />
+    <configuration name="baekjoon_11367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_11367" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -163,7 +139,7 @@
       <list>
         <item itemvalue="애플리케이션.baekjoon_6749" />
         <item itemvalue="애플리케이션.baekjoon_6778" />
-        <item itemvalue="애플리케이션.backjoon_11367" />
+        <item itemvalue="애플리케이션.baekjoon_11367" />
         <item itemvalue="애플리케이션.BankApplication" />
         <item itemvalue="애플리케이션.AccountExample" />
       </list>
@@ -234,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679923515989</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Day - 7 commit">
+      <created>1680011549882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011549882</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +248,7 @@
     <MESSAGE value="Day - 4 commit" />
     <MESSAGE value="Day - 5 commit" />
     <MESSAGE value="Day - 6 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day - 6 commit" />
+    <MESSAGE value="Day - 7 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day - 7 commit" />
   </component>
 </project>

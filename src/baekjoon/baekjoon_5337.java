@@ -1,6 +1,6 @@
 package baekjoon;
 
-public class backjoon_5337 {
+public class baekjoon_5337 {
 
     public static void main(String[] args) {
         System.out.println(".  .   .");

@@ -1,6 +1,6 @@
 package baekjoon;
 import java.util.Scanner;
-public class backjoon_11319 {
+public class baekjoon_11319 {
     //입력한 문장의 자음과 모음 출력
     //공백은 다 지워야 함
 

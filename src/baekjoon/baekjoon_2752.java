@@ -1,7 +1,7 @@
 package baekjoon;
 import java.util.Scanner;
 import java.util.Arrays;
-public class backjoon_2752 {
+public class baekjoon_2752 {
     public static void main(String[] args) {
 
 

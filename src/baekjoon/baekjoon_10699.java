@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.TimeZone;
 
-public class backjoon_10699 {
+public class baekjoon_10699 {
     public static void main(String[] args) {
         Date date = new Date();
         DateFormat df=new SimpleDateFormat("YYYY-MM-dd");

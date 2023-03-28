@@ -2,7 +2,7 @@ package baekjoon;
 
 import java.util.Scanner;
 
-public class backjoon_11367 {
+public class baekjoon_11367 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int line = sc.nextInt(); // 줄 생성

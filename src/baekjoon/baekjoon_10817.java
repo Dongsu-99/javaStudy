@@ -3,7 +3,7 @@ package baekjoon;
 import java.util.Scanner;
 
 
-public class backjoon_10817 {
+public class baekjoon_10817 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
