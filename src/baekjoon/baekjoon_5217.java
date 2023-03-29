@@ -12,7 +12,7 @@ public class baekjoon_5217 {
 
             int n = in.nextInt();    //쌍을 만들 숫자
             int A = 0;
-            System.out.print("Pairs for "+n+": ");
+            System.out.print("Pairs for " +n+": ");
             while(true){ //if문이 동작할 때까지 반복하는 반복문
 
                 A = A+1;

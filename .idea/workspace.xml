@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 7 commit" />
+    <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 7 commit">
+      <change afterPath="$PROJECT_DIR$/src/Academy/ColorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Academy/InheritanceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Academy/OverRidingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Academy/VT100Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/baekjoon_6810.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/baekjoon_5217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/baekjoon_5217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/VT100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/VT100.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +46,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2NM1vo8itsk7lMXRb4z0TqDT67o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -69,9 +82,9 @@
       <recent name="Academy" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.baekjoon_6749">
-    <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Academy.AccountExample" />
+  <component name="RunManager" selected="애플리케이션.baekjoon_5217">
+    <configuration name="InheritanceExample$Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.InheritanceExample$Shape" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Academy.BankApplication" />
+    <configuration name="OverRidingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.OverRidingExample" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +109,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoon_11367" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_11367" />
+    <configuration name="VT100Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.VT100Example" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baekjoon_5217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_5217" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -109,21 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoon_6749" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_6749" />
-      <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="baekjoon_6778" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_6778" />
+    <configuration name="baekjoon_6810" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_6810" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.baekjoon_6749" />
-        <item itemvalue="애플리케이션.baekjoon_6778" />
-        <item itemvalue="애플리케이션.baekjoon_11367" />
-        <item itemvalue="애플리케이션.BankApplication" />
-        <item itemvalue="애플리케이션.AccountExample" />
+        <item itemvalue="애플리케이션.baekjoon_5217" />
+        <item itemvalue="애플리케이션.baekjoon_6810" />
+        <item itemvalue="애플리케이션.OverRidingExample" />
+        <item itemvalue="애플리케이션.InheritanceExample$Shape" />
+        <item itemvalue="애플리케이션.VT100Example" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680011549882</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day - 7 commit">
+      <created>1680011866459</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680011866459</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,5 +270,16 @@
     <MESSAGE value="Day - 6 commit" />
     <MESSAGE value="Day - 7 commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Day - 7 commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/baekjoon_5217.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
