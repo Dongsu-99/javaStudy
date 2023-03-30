@@ -1,83 +1,79 @@
-import util.VT100;
+package Academy;
 
 import java.util.Random;
+import java.util.Timer;
+import java.util.TimerTask;
+
+import util.Color;
+import util.VT100;
 
 public class BlinkExample2 {
-    static class Alpha { // 충돌 피하기 위해 안에 생성
-        int line;          //속성 ==> 필드
-        int column;
-        int fg;
-        int bg;
-        char ch;
+	
+	static class Alpha extends TimerTask {
+		static Random r = new Random();
+		
+		int line;
+		int column;
+		Color fg;
+		Color bg;
+		char ch;
+		
+		public Alpha() {
+			line = r.nextInt(2, 20);
+			column = r.nextInt(2, 40);
+			do {
+				fg = Color.values()[r.nextInt(8)];
+				bg = Color.values()[r.nextInt(8)];
+			} while (fg==bg);
+			ch = (char)r.nextInt('A', 'Z'+1);
+		}
+		
+		void show() {
+			VT100.cursorMove(line, column);
+			VT100.setForeground(fg);
+			VT100.setBackground(bg);
+			VT100.print(ch);
+		}
+		
+		void hide() {
+			VT100.cursorMove(line, column);
+			VT100.reset();
+			VT100.print(' ');
+		}
+		
+		boolean blink = true;
 
-        long previousMillis;
-        boolean isShow = true;
-        int cycle;
+		@Override
+		public void run() {
+			if (blink)
+				show();
+			else
+				hide();
 
-        Alpha() {            //생성자 constructor (초기화메서드)
-            Random r = new Random();
-            line = r.nextInt(1, 21);
-            column = r.nextInt(1, 41);
+			blink = !blink;
+		}
+		
+	}
 
-            do {
-                fg = r.nextInt(31, 38);
-                bg = r.nextInt(41, 48);
-            } while (fg + 10 == bg);
+	public static void main(String[] args) throws InterruptedException {
+		VT100.reset();
+		VT100.clearScreen();
+		
+		Timer timer = new Timer();
 
-            ch = (char) r.nextInt('A', 'Z' + 1);
+		for (int i=0; i<10; i++) {
+			Alpha a = new Alpha();
+			timer.schedule(a, 0, Alpha.r.nextInt(10, 1000));
+		}
+		
+		Thread.sleep(10000);
+		timer.cancel();
 
-            previousMillis = System.currentTimeMillis();
-            cycle = r.nextInt(100,600);
-        }
+		VT100.cursorMove(21, 1);
+		VT100.reset();
+		VT100.println("End...");
+		
+		
+	}
 
-        void show() {            //동작 ==> 메소드
-            VT100.cursorMove(line, column);
-            VT100.setForeground(fg);
-            VT100.setBackground(bg);
-            System.out.print(ch);
-        }
-
-        void hide() {
-            VT100.cursorMove(line, column);
-            VT100.reset();
-            System.out.print(' ');
-        }
-
-
-        void blink() {
-            long currentMillis = System.currentTimeMillis();
-
-            if (currentMillis - previousMillis >= cycle) {
-                previousMillis = currentMillis;
-                if(isShow)
-                    show();
-                else
-                    hide();
-
-                isShow = !isShow;
-            }
-        }
-    }
-
-
-    public static void main(String[] args) {
-
-        VT100.reset();
-        VT100.clearScreen();
-        Alpha[] alphas= new Alpha[5000];
-
-        for (int i = 0 ; i< alphas.length; i++){
-            alphas[i] = new Alpha();
-
-
-        }
-
-        for (;;){  // SuperLoop 사용중에는 sleep 사용금지
-            for(Alpha a : alphas ) {
-                a.blink();
-            }
-        }
-
-//        a.Alpha();// (X) 한번 초기화된 인스턴스는 다시 호출불가
-    }
 }

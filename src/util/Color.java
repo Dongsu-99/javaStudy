@@ -1,13 +1,12 @@
 package util;
 
 public enum Color {
-    Black,
+	Black,
     Red,
     Green,
     Yellow,
     Blue,
-    Magento,
+    Magenta,
     Cyan,
     White,
-
 }
