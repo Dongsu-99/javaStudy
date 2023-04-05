@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 12 commit">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="b3e028e1-d655-4fc9-bbc0-9d1e471f9d96" name="변경" comment="Day - 13 commit">
       <change afterPath="$PROJECT_DIR$/src/baekjoon/baekjoon_10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/baekjoon_2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/baekjoon_11382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/baekjoon_25304.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,9 +85,9 @@
       <recent name="Academy" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.baekjoon_2480">
-    <configuration name="baekjoon_10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_10950" />
+  <component name="RunManager" selected="애플리케이션.baekjoon_25304">
+    <configuration name="baekjoon_11382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_11382" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoon_2739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_2739" />
+    <configuration name="baekjoon_25304" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.baekjoon_25304" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.baekjoon_25304" />
+        <item itemvalue="애플리케이션.baekjoon_11382" />
         <item itemvalue="애플리케이션.baekjoon_2480" />
         <item itemvalue="애플리케이션.baekjoon_2525" />
         <item itemvalue="애플리케이션.baekjoon_8393" />
-        <item itemvalue="애플리케이션.baekjoon_2739" />
-        <item itemvalue="애플리케이션.baekjoon_10950" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680530839992</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Day - 13 commit">
+      <created>1680617251240</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1680617251240</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,7 +326,8 @@
     <MESSAGE value="Day - 10 commit" />
     <MESSAGE value="Day - 11 commit" />
     <MESSAGE value="Day - 12 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day - 12 commit" />
+    <MESSAGE value="Day - 13 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day - 13 commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaStudy$BlinkExample3__1_.ic" NAME="BlinkExample3 (1) 커버리지 결과" MODIFIED="1680142113161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
